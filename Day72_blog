@@ -1,0 +1,24 @@
+在Day65之前是在学习python的基础语法，还有C盘垃圾清理小工具的制作
+从Day65开始转向了Flask_blog的学习，最近看到了一些人的blog，我自己也想写一个，
+现在看只学了一个星期，但是感觉像学了一个月一样。
+
+
+目前我的Flask_blog已经具备
+首页显示文章
+查看文章详情
+新建文章
+编辑文章
+删除文章
+模板渲染
+表单提交
+URL 参数
+CRUD 完整流程
+
+
+今天做的事
+Python 负责处理数据
+HTML 负责显示页面
+render_template() 负责把 Python 数据传给 HTML
+int写在diary_id前面是为了什么
+没有SQL库代码是保存在我内存里的，程序重启后更改就消失了
+HTML的title和python里的要对应上
