@@ -1,2 +1,3 @@
-# Python-learning-
-Python Learning Log
+在这里记录我的python学习
+目前到了day73 我现在还有一份全职工作
+我的目标是每天学习1小时 
