@@ -1,0 +1,12 @@
+今天改用flask命名了 感觉更准确些 
+
+今天的学习内容：
+SQLAlchemy Model：学习了 class Diary(db.Model)，理解 Model 是如何对应数据库中的表。
+数据库字段：详细理解了 id、title、content、date 四个字段，以及 Integer、String、Text。
+主键：理解了 primary_key=True 的作用，即用唯一 ID 标识每一条日记。
+nullable=False：理解了它表示该字段不允许为 NULL。
+Flask-SQLAlchemy：开始学习 db、db.init_app(app)、db.create_all() 等数据库连接和创建过程。
+虚拟环境 .venv：理解了为什么使用虚拟环境，以及 VS Code 如何选择 .venv 作为项目解释器。
+Python 环境问题：进一步弄清了系统 Python 3.12、.venv 和 VS Code 终端之间的关系。
+
+今天大部分时间都拿来弄python环境了 我蛮喜欢修理东西的感觉的 修安装位置也是修 
