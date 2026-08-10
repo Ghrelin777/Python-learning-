@@ -1,0 +1,23 @@
+Day77 学习总结
+
+
+创建并配置 Flask-SQLAlchemy
+理解 db 和 Model 的关系
+创建 Diary 数据模型
+理解数据库字段：Integer、String、Text、nullable、primary_key
+创建 SQLite 数据库 blog.db
+理解 Flask 的 instance 文件夹
+使用 db.create_all() 创建数据库表
+使用 db.session.add() 添加数据
+使用 db.session.commit() 保存数据
+使用 SQLAlchemy 查询数据库
+将 Blog 的数据来源从 Python list 改成 SQLite
+实现数据库版的 CRUD
+Create 创建
+Read 读取
+Update 修改
+Delete 删除
+实际测试了关闭 Flask → 重新启动 → 数据依然存在
+理解了 HTML 为什么不需要修改，以及 Flask / SQLAlchemy / SQLite 之间的分层关系
+初步理解了耦合与解耦
+
