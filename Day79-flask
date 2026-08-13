@@ -1,0 +1,11 @@
+Day79
+├─ SQLAlchemy 查询复习
+├─ query.all()
+├─ filter_by()
+├─ first()
+├─ db.session.get()
+├─ order_by()
+├─ asc()
+├─ desc()
+├─ 实际完成数据库查询与排序测试
+└─ 开始转向“需求 → 独立编码 → Debug”的学习模式
